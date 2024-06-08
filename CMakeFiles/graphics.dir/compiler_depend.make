@@ -196,8 +196,7 @@ CMakeFiles/graphics.dir/src/main.c.obj: src/main.c \
   C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/x86_64-w64-mingw32/include/sys/types.h \
   C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/x86_64-w64-mingw32/include/wchar.h \
-  src/Engine.c \
-  src/constants.h
+  src/Engine.c
 
 
 C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.2.0/include/ammintrin.h:
@@ -591,5 +590,3 @@ C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/x86_64-w64-mingw32/include/vad
 C:/Users/User/scoop/apps/mingw/13.2.0-rt_v11-rev1/x86_64-w64-mingw32/include/wchar.h:
 
 src/Engine.c:
-
-src/constants.h:
