@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/Desktop/graphics",
+  "command": "C:\\Users\\User\\scoop\\apps\\mingw\\current\\bin\\gcc.exe  @CMakeFiles/graphics.dir/includes_C.rsp  -o CMakeFiles\\graphics.dir\\src\\main.c.obj -c C:\\Users\\User\\Desktop\\graphics\\src\\main.c",
+  "file": "C:/Users/User/Desktop/graphics/src/main.c",
+  "output": "CMakeFiles/graphics.dir/src/main.c.obj"
+}
+]

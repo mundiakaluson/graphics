@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/graphics/CMakeFiles/graphics.dir
+C:/Users/User/Desktop/graphics/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/graphics/CMakeFiles/rebuild_cache.dir
